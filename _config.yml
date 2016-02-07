@@ -6,14 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Pacific Youth Track Cycling Tournament 2016
+email: info@pacifictrackcycling.com.au
+description: >
+  A premier international youth track cycling competition for U15 –U17 boys and girls proudly presented to you by Track Cycling WA and National Cycling Centre WA
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.pacifictrackcycling.com.au" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
