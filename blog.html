@@ -1,0 +1,175 @@
+---
+layout: page
+title: Blog
+---
+                
+
+        <section class="blog-body"><!-- Start: Blog Body Area" -->
+            <div class="container">
+
+
+                {% for post in site.posts %}
+                <div class="row">
+					
+					<!-- Blog Left area Start Here -->
+                    <div  class="bolg-body-left col-md-8 col-sm-12 col-xs-12">
+						
+						<!-- Start: Image Slider Blog Post  -->
+                        <div class="blog-post wow fadeInUp animated" data-wow-offset="120" data-wow-duration="1.5s">
+                            <h3>{{ post.title }}</h3>
+                            <p class="post-date">{{ post.date | date: "%b %-d, %Y" }}</p>
+                            <p>{{ post.content }}</p>
+
+                            <!-- Start:  Button area -->
+<!--                             <div class="read-more">
+                                <div class="btn-group">
+                                    <a href="#" class="btn-fill btn-standard btn btn-cus">Read more</a>
+                                </div>
+                            </div> -->
+                            <!-- End:  Button area" -->
+
+                        </div>
+                        <!-- End: Image Slider Blog Post  -->
+                    </div>
+                </div>
+                {% endfor %}
+
+
+						
+					
+<!--                    <!~~ Blog Right area Start Here ~~>
+                    <aside class="col-md-4 col-sm-12  col-xs-12">
+
+                        <div class="cate-all categories col-sm-12 col-xs-12 col-md-12 wow fadeInUp animated" data-wow-offset="120" data-wow-duration="1.5s">
+                            <h3>Categories</h3>
+
+                            <ul class="float-none">
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Design</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">64</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Art Directon</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">12</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Html and CSS</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">43</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Themes</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">532</span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Wordpress</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">46</span>
+                                    </a>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="cate-all archives  col-sm-12 col-xs-12 col-md-12 wow fadeInUp animated" data-wow-offset="120" data-wow-duration="1.5s">
+                            <h3>Archives</h3>
+
+                            <ul class="float-none">
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">Novemboer</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">64</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">October</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">12</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">September</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">43</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">August</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">532</span>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">July</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">46</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">June</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">456</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="title col-lg-8 col-md-8 col-sm-8 col-xs-8">May</span>
+                                        <span class="number col-lg-4 col-md-4 col-sm-4 col-xs-4">146</span>
+                                    </a>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="cate-all archives col-sm-12 col-xs-12 col-md-12 wow fadeInUp animated" data-wow-offset="120" data-wow-duration="1.5s">
+                            <h3>Tags</h3>
+
+                            <ul class="float-left">
+                                <li>
+                                    <a href="#" class="title">Creative</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">Design</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">Art</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">Autpor Name</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">Coorperate</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">Wordpress</a>
+                                    <span>,&nbsp;</span>
+                                </li>
+                                <li>
+                                    <a href="#" class="title">3D Animations</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </aside>
+                    <!~~ Blog Right area End Here ~~>-->
+
+            </div><!-- End: container  -->
+        </section><!-- End: Blog Body Area -->
+        
+
+
+</html>
