@@ -1,38 +1,35 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
-
+<footer class="footer">
+<div class="container">
+  <p class="pull-xs-right"><a href="#">Back to top</a></p>
+  <p>&copy; {{ site.title }} </p>
+</div>
 </footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://www.atlasestateagents.co.uk/javascript/tether.min.js"></script>
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/jquery.countdown.js" | prepend: site.baseurl }}"></script>
+
+<!-- Kick off the counter -->
+<script>
+  $('.count_down').countdown({
+      end_time: "2016/06/06 08:30:00 +0800",
+      show_second: true,
+      wrapper: function(unit){
+          var wrpr = $('<div></div>').
+              addClass(unit.toLowerCase()+'_wrapper').
+              addClass('col-sm-3').
+              addClass('col-xs-3').
+              addClass('col-md-3').
+              addClass('custom');
+          var background = $('<div></div>').
+              addClass('background').
+              addClass('time').
+              appendTo(wrpr);
+
+          $('<span class="counter style_all"></span>').appendTo(background);
+          $('<span class="title">'+unit+'</span>').appendTo(background);
+          return wrpr;
+      }
+  });
+</script>

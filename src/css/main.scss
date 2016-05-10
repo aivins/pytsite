@@ -1,53 +1,126 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+$py-background-color: #f7f7f9;
+
+$py-brand-really-darkest: #276285;
+$py-brand-darkest: #367dab;
+$py-brand-dark: #88c5ea;
+$py-brand-medium: #92ceea;
+$py-brand-light: #c1e5ef;
+
+$py-blue-background: #1487c1;
+
+$navbar-light-color: $py-brand-darkest;
+$navbar-light-hover-color: $py-brand-really-darkest;
+$navbar-light-active-color: $py-brand-really-darkest;
+$navbar-light-disabled-color: $py-brand-medium;
+
+// $enable-flex: true;
+
 @charset "utf-8";
+@import "bootstrap/bootstrap.scss";
+@import "carousel.scss";
 
+.page-content > .wrapper > .container {
+  margin-top: 100px;
+}
 
+html {
+  position: relative;
+  min-height: 100%;
+}
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #ccc;
+}
 
-$spacing-unit:     30px;
+body {
+    background-color: $py-background-color;
+    margin-bottom: 60px;
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+nav.bg-faded {
+    background-color: $py-background-color;
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+.py-navbar-logo-container {
+    width: 200px;
+    //border: 1px solid black;
+    position: fixed;
+    left: 10px;
+    top: 0px;
+    background-color: $py-blue-background;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.5);
+}
 
-// Width of the content area
-$content-width:    800px;
+.py-navbar-logo {
+    width: 100%;
+    // width: 100px;
+    // //border: 1px solid black;
+    // position: fixed;
+    // left: 40px;
+    // top: 0px;
+    // background-color: #f7f7f9;
+    // padding: 5px;
+    // border-radius: 15px;
+}
 
-$on-palm:          600px;
-$on-laptop:        800px;
+.navbar-nav {
+    margin-left: 220px;
+    //height: 80px
+}
 
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+.navbar {
+    box-shadow: 2px 2px 25px 1px rgba(0, 0, 0, 0.5);
 }
 
 
+// .navbar-light .navbar-nav .nav-link {
+//     color: $py-brand-dark;
+// }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+// .navbar-light .navbar-nav .nav-link:hover {
+//     color: $py-brand-darkest;
+// }
+
+// .navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .open > .nav-link:focus, .navbar-light .navbar-nav .open > .nav-link:hover, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .active > .nav-link:focus, .navbar-light .navbar-nav .active > .nav-link:hover, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.open:focus, .navbar-light .navbar-nav .nav-link.open:hover, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active:focus, .navbar-light .navbar-nav .nav-link.active:hover {
+//     color: $py-brand-darkest;
+// }
+
+#myCarousel {
+    margin-top: 50px;
+}
+
+.time .counter {
+  color: #FFFFFF;
+  font-size: 100px;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  text-align: center;
+}
+.time .title {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  font-weight: lighter;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+}
+
+.count_down {
+    padding-top: 100px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
