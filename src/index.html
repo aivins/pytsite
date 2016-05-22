@@ -2,31 +2,6 @@
 layout: default
 ---
 
-<script src="{{ "/js/i18next.min.js" | prepend: site.baseurl }}"></script>
-<script>
-// Internationalized welcome
-i18next.init({
-  lng: navigator.language.split("-")[0],
-  resources: {
-    en: {
-      translation: {
-        "key": "Welcome!"
-      }
-    },
-    zh: {
-      translation: {
-        "key": "欢迎"
-      }
-    }
-  }
-}, function(error, t) {
-  // initialized and ready to go!
-  document.welcomeMessage = i18next.t('key'); // hw = 'hello world'
-  console.log("Welcome message", document.welcomeMessage);
-});
-</script>
-
-
 
 <!-- Carousel
 ================================================== -->
@@ -40,13 +15,12 @@ i18next.init({
 
     <div class="carousel-item active">
       <div class="container">
-          <!-- Start: CountDown area -->
+          <!~~ Start: CountDown area ~~>
           <div class="count_down fadeInDown animated" data-wow-offset="120" data-wow-duration="1.5s"></div>
           <div class="carousel-caption">
-          <h1><script>document.write(document.welcomeMessage)</script></h1>
           <p>
 A premier international youth track cycling competition for U15 –U17 boys and girls proudly presented to you by Track Cycling WA and National Cycling</p>
-          <!-- End: CountDown area -->
+          <!~~ End: CountDown area ~~>
         </div>
       </div>
     </div>
@@ -55,7 +29,7 @@ A premier international youth track cycling competition for U15 –U17 boys and 
     <div class="carousel-item">
       <div class="container">
         <div class="carousel-caption">
-          <img src="/images/eventscard.jpg" style="height: 400px"> 
+          <img src="/images/eventscard.jpg"> 
         </div>
       </div>
     </div>

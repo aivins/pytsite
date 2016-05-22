@@ -27,8 +27,35 @@ $navbar-light-disabled-color: $py-brand-medium;
   margin-top: 100px;
 }
 
+
 .navbar-toggler {
   display: none;
+}
+
+.time .counter {
+  color: #FFFFFF;
+  font-size: 100px;
+  font-weight: 300;
+  font-family: 'Oswald', sans-serif;
+  display: block;
+  text-align: center;
+}
+.time .title {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  font-weight: lighter;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+}
+
+.count_down {
+    padding-top: 100px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-caption img {
+  height: 400px;
 }
 
 @media(max-width:34em) {
@@ -48,6 +75,17 @@ $navbar-light-disabled-color: $py-brand-medium;
       display: block;
     }
 
+    .time .counter {
+      font-size: 3em;
+    }
+
+    .carousel-item {
+      height: 400px;
+    }
+
+    .carousel-caption img {
+      height: 250px;
+    }
 }
 
 html {
@@ -125,25 +163,5 @@ nav.bg-faded {
     margin-top: 50px;
 }
 
-.time .counter {
-  color: #FFFFFF;
-  font-size: 100px;
-  font-weight: 300;
-  font-family: 'Oswald', sans-serif;
-  display: block;
-  text-align: center;
-}
-.time .title {
-  font-family: 'Open Sans', sans-serif;
-  color: #FFFFFF;
-  font-weight: lighter;
-  display: block;
-  text-align: center;
-  font-size: 18px;
-}
 
-.count_down {
-    padding-top: 100px;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-}
 
