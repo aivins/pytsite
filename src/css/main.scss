@@ -27,6 +27,29 @@ $navbar-light-disabled-color: $py-brand-medium;
   margin-top: 100px;
 }
 
+.navbar-toggler {
+  display: none;
+}
+
+@media(max-width:34em) {
+    .navbar .navbar-nav>.nav-item {
+        float: none;
+        margin-left: .1rem;
+    }
+    .navbar .navbar-nav {
+        float:none !important;
+        margin-top: 80px;
+        margin-left: 0px;
+    }
+    .navbar .collapse.in, .navbar .collapsing  {
+        clear:both;
+    }
+    .navbar-toggler {
+      display: block;
+    }
+
+}
+
 html {
   position: relative;
   min-height: 100%;
