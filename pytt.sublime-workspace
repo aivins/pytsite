@@ -1,0 +1,898 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"callablee",
+				"callableentity_ptr"
+			],
+			[
+				"stat",
+				"status.HTTP_500_INTERNAL_SERVER_ERROR"
+			],
+			[
+				"HTTP",
+				"HTTP_500_INTERNAL_SERVER_ERROR"
+			],
+			[
+				"HTTP_",
+				"HTTP_500_INTERNAL_SERVER_ERROR"
+			],
+			[
+				"getRe",
+				"getResourceCollectionProxy"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"Storage",
+				"StorageSnapshotService"
+			],
+			[
+				"even",
+				"eventSubscriptions"
+			],
+			[
+				"un",
+				"unsubscribeFromEvents"
+			],
+			[
+				"event",
+				"eventAggregator"
+			],
+			[
+				"create",
+				"createResourceGetters"
+			],
+			[
+				"new",
+				"newResource"
+			],
+			[
+				"fetch",
+				"fetchOptions"
+			],
+			[
+				"crea",
+				"createResourceGetters"
+			],
+			[
+				"aws_resou",
+				"aws_resource_type_plural"
+			],
+			[
+				"bin",
+				"bindingContext"
+			],
+			[
+				"Pr",
+				"PrimaryKeyRelatedField"
+			],
+			[
+				"Coresys",
+				"CoresysTestCase"
+			],
+			[
+				"Core",
+				"CoresysTestCase"
+			],
+			[
+				"Provisiona",
+				"ProvisionableSerializer"
+			],
+			[
+				"Read",
+				"ReadOnlyMetadata"
+			],
+			[
+				"upda",
+				"updateValidation"
+			],
+			[
+				"Ex",
+				"ExistingForeignKeysModelSerializer"
+			],
+			[
+				"U",
+				"UniqueValidator"
+			],
+			[
+				"Dja",
+				"DjangoObjectPermissionsFilter〔class〕"
+			],
+			[
+				"bo",
+				"border-box〔value〕"
+			],
+			[
+				"box",
+				"box-sizing: 〔property〕"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"E",
+				"EmailField〔class〕"
+			],
+			[
+				"aut",
+				"authentication"
+			],
+			[
+				"asser",
+				"assertQuerysetEqual〔function〕"
+			],
+			[
+				"Nest",
+				"NestedStackedInline"
+			],
+			[
+				"Compute",
+				"ComputeOptionsForm〔class〕"
+			],
+			[
+				"related",
+				"create_foreign_related_manager〔function〕"
+			],
+			[
+				"Stor",
+				"StorageOptionsSerializer〔class〕"
+			],
+			[
+				"Produc",
+				"ProductSerializer〔class〕"
+			],
+			[
+				"BundledP",
+				"BundledProvisionableSerializerBase〔class〕"
+			],
+			[
+				"provision",
+				"provisionable_serializers"
+			],
+			[
+				"Ch",
+				"ChoiceField〔class〕"
+			],
+			[
+				"Bundled",
+				"BundledProvisionableForm"
+			],
+			[
+				"BundledPro",
+				"BundledProvisionableAdmin"
+			],
+			[
+				"fla",
+				"flatten_fieldsets〔function〕"
+			],
+			[
+				"S",
+				"StackedInline"
+			],
+			[
+				"Ge",
+				"GenericRelation〔class〕"
+			],
+			[
+				"Pro",
+				"Provisionable"
+			],
+			[
+				"D",
+				"DateTimeField〔class〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"django",
+				"Django: Run Server"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa	",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"sub",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrew/dev/www.pacifictrackcycling.com.au"
+	],
+	"file_history":
+	[
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/pbxuser-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callgroup-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/service/base.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0032_auto_20160718_0717.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/mixins.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers/base.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callqueue-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/select2-multiselect.html",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/service/iptel.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers/service.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/views.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/select2-multiselect.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callqueue-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callqueue-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/routes.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/rules.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/webservice/urls.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/users.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/service/aws/ec2.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/grid.html",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/resource-value.html",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/resource-value.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/simple-resource-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/group-box.html",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/common/resource-edit.html",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/group-box.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers/metadata.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/simple-resource-view.html",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callgroup-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/api.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/common/resource-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/callgroup-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/products.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/__init__.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0033_auto_20160718_0817.pyoo",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0032_auto_20160718_0717.pyo",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0032_auto_20160718_0707.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0032_auto_20160718_0452.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0036_auto_20160718_0619.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0035_auto_20160718_0618.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0033_callableentity.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0035_auto_20160718_0610.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0035_auto_20160718_0547.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0035_auto_20160718_0518.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0036_auto_20160718_0507.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0018_auto_20160620_0408.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/callable.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/customers.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers/user.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/webservice/settings.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-change-password.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/main.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/.gitlab-ci.yml",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/phone-number-field.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/components/phone-number-field.html",
+		"/Users/andrew/dev/cloudsys/cloudsys/settings-prod.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-block-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-block-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/number-block-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/requirements.txt",
+		"/Users/andrew/dev/cloudsys/cloudsys/docker-compose.yml",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-login-phone.html",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers/__init__.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/pbx-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/admin/user-login-phone.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/provisionable.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0022_auto_20160627_0647.py",
+		"/Users/andrew/Downloads/Stupid Quest.quest",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/phone-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/pbx-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/.gitlab-ci.yml",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/pbx-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0020_auto_20160623_0919.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/utils.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/Dockerfile",
+		"/Users/andrew/dev/cloudsys/cloudsys/Dockerfile",
+		"/Users/andrew/dev/cloudsys/cloudsys/phoneprov/cloudsys/api.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/phoneprov/phoneprov/config.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/phoneprov/templates/cisco_ini.template",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/phone-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/voice/phone-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/README.md",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/phoneprov/templates/cisco_ini.template",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/docker-compose.yml",
+		"/Users/andrew/dev/cloudsys/cloudsys/Vagrantfile",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/Vagrantfile",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/phoneprov/phoneprov/config.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/asterisk-config/extensions.conf",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/ari_manage/ari_manage.py",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/asterisk/apps/app_extmap.c",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/asterisk/res/res_pjsip.c",
+		"/Users/andrew/dev/cloudsys/cloudsys/asterisk-corpcloud-docker/ari_manage/ari_manage/__init__.py",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/docker-compose.sh",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/shell.sh",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/docker-compose.yml",
+		"/Users/andrew/dev/cloudsys/cloudsys/README.md",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0001_initial.py",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/phoneprov/phoneprov/config.py",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/phoneprov/templates/polycom.template",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/phoneprov/templates/cisco_xml.template",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0018_auto_20160620_0351.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0006_auto_20160531_0818.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations/0018_auto_20160620_0334.py",
+		"/Users/andrew/dev/asterisk-corpcloud-docker/Dockerfile",
+		"/Users/andrew/dev/cloudsys/cloudsys/docker-compose.sh",
+		"/Users/andrew/dev/cloudsys/cloudsys/Dockerfile.prod",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/compute-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/elastic-address-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/tasks/aws.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/elastic-address-list.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/elastic-address-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/common/wrapped-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/utils.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/build/.eslintrc",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/service/aws/__init__.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/management/commands/clean-aws-test.py",
+		"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/aws_regions.py",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/vpc-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/subnet-view.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/subnet-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/compute-edit.js",
+		"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules/cloud/vpc-list.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys-ui/src",
+			"/Users/andrew/dev/cloudsys/cloudsys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys-ui/src/modules",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/migrations",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys-ui/build",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys-ui/src",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models/service/aws",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/models",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys/serializers",
+			"/Users/andrew/dev/cloudsys/cloudsys-ui/src",
+			"/Users/andrew/dev/cloudsys/cloudsys/coresys",
+			"/Users/andrew/dev/dashcss/src",
+			"/Users/andrew/dev/dashcss/jspm_packages/npm/aurelia-validation@0.6.8",
+			"/Users/andrew/dev/dashcss/src",
+			"/Users/andrew/dev/aurelia-validatejs/src",
+			"/Users/andrew/dev/aurelia-validatejs/sample/src",
+			"/Users/andrew/dev/aurelia-validatejs/src",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/dialogs",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/build",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src/components",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys/serializers",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/serializers",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/django/coresys/serializers",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/django/coresys/migrations",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/build/tasks",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/lists",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys/migrations",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/build/tasks",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/migrations",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/aurelia/src/resources/services",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources/services",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/components",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/jspm_packages/github/almasaeed2010/adminlte@2.3.2/build/less",
+			"/Users/andrew/dev/coresys/aurelia",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/build/tasks",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/templates",
+			"/Users/andrew/dev/coresys/aurelia/build/tasks",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/skeleton-navigation-1.0.0-beta.1.0.4/src",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/django/coresys",
+			"/Users/andrew/dev/coresys/django",
+			"/Users/andrew/dev/coresys/django/coresys/models",
+			"/Users/andrew/dev/coresys/django",
+			"/Users/andrew/dev/coresys/aurelia/src",
+			"/Users/andrew/dev/coresys/aurelia/src/resources",
+			"/Users/andrew/dev/coresys/django/coresys"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"on_save",
+			"callqueue",
+			"primary_phone",
+			"extmap",
+			"CoresysUser",
+			"get_object",
+			"autofield",
+			"callable",
+			"get_queuemap_o",
+			"ext ",
+			"extension",
+			"anounce",
+			"super",
+			"Queue",
+			"CallGroup",
+			"options",
+			"= [",
+			"super",
+			"^(.*)$",
+			"ext",
+			"^(.*)$",
+			"^(.*)\\s=.*",
+			"^(.*)\\s=",
+			"PositiveIntegerField\\(max_length=\\d+,\\s?",
+			"PositiveIntegerField\\(max_length=\\d+,",
+			"PositiveIntegerField\\(max_length=\\d+",
+			"default=\"(\\d+)\"",
+			"default=yes",
+			"default=no",
+			"BooleanField\\(max_length=\\d+, default=\"(.*)\"",
+			"BooleanField\\(max_length=\\d+, default=(\".*\")",
+			"^(.*)=(.*)",
+			" ",
+			"-",
+			"// ",
+			"choices",
+			"callgroup",
+			"CallGroup",
+			"generate_keypair",
+			"_model",
+			"model",
+			"update",
+			"this.selected",
+			"save(",
+			"multiple",
+			"did",
+			"did=\"\"",
+			"extra_kwargs",
+			"extra_",
+			"numberblockmember",
+			"PolymorphicManager",
+			"apps",
+			"CallableEntity",
+			"CallableIdentity",
+			"CallableIden",
+			"iptel",
+			"CoresysUser",
+			"GenericForeignKey",
+			"ContentType",
+			"value",
+			"console.log",
+			"dies",
+			"this.selected =",
+			"ZONE",
+			"type=",
+			"action",
+			"statis",
+			"coresys_exception_han",
+			"errorHandler",
+			"error_handler",
+			"reload_module",
+			"errorHandler",
+			"Unable to connect to API",
+			"trace",
+			"def create",
+			"PbxSer",
+			"def create",
+			"user-change-password",
+			"Change Password",
+			"from_user",
+			"did",
+			"cond",
+			"reporter",
+			"bind",
+			"assert",
+			"login",
+			"range",
+			"rules",
+			"reverse",
+			"loadbalancerlistene",
+			"phone",
+			"block_numbers",
+			"Phone",
+			"coresys.serializers.user",
+			"base",
+			"CoresysUserSerializer",
+			"PhoneServiceSerializer",
+			"set_value",
+			"UUIDField",
+			"get_extmap",
+			"login",
+			"display_name",
+			"visibleFields",
+			"fieldOptions",
+			"super.activate",
+			"action(",
+			"resource[",
+			"trace",
+			"voip_control_port",
+			"phoneprov",
+			"#",
+			"update_phone",
+			"from_domain",
+			"endpoint",
+			"var",
+			"PbxServic",
+			"PbxService",
+			"RunPython",
+			"127.0.0.1",
+			"8088",
+			"8080",
+			"10.0.0.0",
+			"tools",
+			"\"",
+			"ElasticAddress",
+			"List",
+			"SubnetService",
+			"create_security_group"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1=callqueue.$1,",
+			"$1=callgroup.$1,",
+			"$1=callgroup.$1",
+			"$1",
+			"PositiveIntegerField(",
+			"default=$1",
+			"default=True",
+			"default=False",
+			"BooleanField(default=$1",
+			"BooleanField(default=$1)",
+			"$1 = models.CharField(max_length=255, default=\"$2\")",
+			"",
+			"_",
+			"",
+			"Edit",
+			"jq.",
+			"ResourceList",
+			"ResourceEditList",
+			"extends BaseEdit",
+			"'resources/base-edit'",
+			"import {BaseEdit}",
+			"fields",
+			"origin\": \"aws\"},",
+			"",
+			"{\"secondary",
+			"",
+			"\"pk\": null",
+			"UUIDModelViewset",
+			"",
+			"aivins/adminlte",
+			"aivins/adminlte@master",
+			"../../jspm",
+			"aurelia-framework@1.0.0-beta.1.0.6",
+			"obj.customer",
+			"= coresys.models.service.Service",
+			"\"$1\", \"$1\")",
+			"X$1",
+			"_id",
+			"_path",
+			"print(",
+			"Service",
+			"ServiceSerializer",
+			"\"pk\": null",
+			"BaseProvisionableResource",
+			"'resources/provisionables/base",
+			"Config(ServiceConfig",
+			"",
+			"Product",
+			"product",
+			"btn-primary btn-cc",
+			"btn-cc",
+			"('",
+			"Coresys",
+			"coresys",
+			"Coresys",
+			"coresys"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pytt.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user",
+				"dashcss/src/modules/admin/user-edit.js"
+			],
+			[
+				"app.js",
+				"aurelia/src/app.js"
+			],
+			[
+				"",
+				"aurelia/index.html"
+			],
+			[
+				"load_",
+				"aurelia/src/resources/services/load_balancer-edit.js"
+			],
+			[
+				"load_bala",
+				"aurelia/dist/resources/services/load_balancer-edit.js"
+			],
+			[
+				"load_balancer",
+				"aurelia/src/resources/services/load_balancer-details.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 387.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 844.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

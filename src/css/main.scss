@@ -23,6 +23,12 @@ $navbar-light-disabled-color: $py-brand-medium;
 @import "bootstrap/bootstrap.scss";
 @import "carousel.scss";
 
+.sponsors {
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
 .page-content > .wrapper > .container {
   margin-top: 100px;
 }
