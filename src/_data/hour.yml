@@ -1,0 +1,83 @@
+- event: Hour Of Power
+  cat: Open
+  date: 23/11/14
+  name: Lewis McCrea
+  distance: 43675m
+
+- event: Hour Of Power
+  cat: Elite Women
+  date: 9/11/14
+  name: Adelia Reyneke
+  distance: 40920m
+
+- event: Hour Of Power
+  cat: Elite Men
+  date: 15/11/14
+  name: James Perrin
+  distance: 42500m
+
+- event: Hour Of Power
+  cat:  U17M Youth 1/2 Hour
+  date: 15/11/14
+  name: Hayden Turton
+  distance: 21010m
+
+- event: Hour Of Power
+  cat: U19
+  date: 23/11/14
+  name: Lewis McCrea
+  distance: 43675m
+
+- event: Hour Of Power
+  cat: MMAS1 
+  date: 9/11/14
+  name: Eerik Sandstrom
+  distance: 38905m
+
+- event: Hour Of Power
+  cat: MMAS2 35-39
+  date: 23/11/14
+  name: Guido Gadomsky - GDL 26878
+  distance: 42671m
+
+- event: Hour Of Power
+  cat: WMAS2 35-39
+  date: 9/11/14
+  name: Adelia Reyneke
+  distance: 40920m
+
+- event: Hour Of Power
+  cat: MMAS4  45-49
+  date: 15/11/14
+  name: Pascal Peguy
+  distance: 39456m
+
+- event: Hour Of Power
+  cat: MMAS7 60-64
+  date: 23/11/14
+  name: Joseph Grasso
+  distance: 41016m
+
+- event: Hour Of Power
+  cat: WMAS7 60-64
+  date: 23/11/14
+  name: Jenny Sammons
+  distance: 39923m
+
+- event: Hour Of Power
+  cat: MMAS8 65-69
+  date: 23/11/14
+  name: Terry Skinner
+  distance: 39996m
+
+- event: Hour Of Power
+  cat: MMAS10 75-79
+  date: 15/11/14
+  name: Denis Robinson
+  distance: 32936m
+
+- event: Hour Of Power
+  cat: Para Class womens open tandem
+  date: 15/11/14
+  name: J.Allen/A.Anderson - GDL 26879
+  distance: 37447m

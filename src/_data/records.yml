@@ -1,0 +1,400 @@
+200m flying:
+  - cat: Under 11 Women
+    name: Matilda Cronin
+    time: 18.42 (WA 2016)
+
+  - cat: Under 11 Women
+    name: A Parkinson
+    time: 19.76 (WA 2003)
+
+  - cat: Under 11 Men
+    name: Rusty Wisewould
+    time: 17.27 (WA 2016)
+
+  - cat: Under 11 Men
+    name: Mitchell Benson 
+    time: 17.87 (WA 2003)
+
+  - cat: Under 13 women
+    name: Emma Smith
+    time: 15.45 (WA 2016)
+
+  - cat: Under 13 women
+    name: Jessica Baldey
+    time: 15.73 (WA 2003)
+
+  - cat: Under 13 Men
+    name: James Blake 
+    time: 14.99 (WA 2016)
+
+  - cat: Under 13 Men
+    name: C Hilton 
+    time: 16.65 (WA 2003)
+
+  - cat: Under 15 Women
+    name: Tahlay Christie
+    time: 12.951 (Syd 2012)
+
+  - cat: Under 15 Men
+    name: Scott Sunderland 
+    time: 12.10***(O/D) (NT 2002)
+
+  - cat: Under 17 women
+    name: Tahlay Christie
+    time: 11.828 (Syd 2014)
+
+  - cat: Under 17 Men
+    name: Kye Bonser
+    time: 11.233 (Vic 2015)
+
+  - cat: Under 19 Women
+    name: Tahlay Christie
+    time: 11.490 (Mel 2015)
+
+  - cat: Under 19 Men
+    name: R Bayley
+    time: 10.45 (WA 2000)
+
+  - cat: Women
+    name: L Tyler-Sharman
+    time: 11.78*** (O/D) (QLD 1995)
+
+
+  - cat: Men
+    name: Darryn Hill
+    time: 9.926*** Bogota 1995)
+
+
+  - cat: Para 1 Men
+    name: M Gray
+    time: 11.962*** (NSW 2002)
+
+
+  - cat: Under 19 Tandem Men
+    name: Joshua Yates/B Page
+    time: 12.478*** (SA 2006)
+
+  - cat: Tandem Men
+    name: L Larkins/D Harry
+    time: 10.731** (NSW 2004)
+
+  - cat: Tandem Women
+    name: J Shaw/K McCombie
+    time: 12.029 ** (NSW 2004)
+
+  - cat: Mixed Tandem
+    name: L Lepore/Eddie Hollands
+    time: 12.252 (NSW 2002)
+
+
+500m/1km Time Trial:
+  - cat: Under 13 women
+    name: V Horsley
+    time: 1.01.01 (WA 2002)
+
+
+  - cat: Under 13 Men
+    name: N Miles 
+    time: 46.40 (WA 2002)
+
+
+  - cat: Under 15 Women
+    name: Tahlay Christie
+    time: 38.03 (Melb 2012)
+
+  - cat: Under 15 Men
+    name: Scott Sunderland
+    time: 36.08***(O/D) (NT 2002)
+
+  - cat: Under 17 women
+    name: Tahlay Christie
+    time: 35.881 (Syd 2014)
+
+  - cat: Under 17 Men
+    name: Kye Bonser
+    time: 34.280 (Vic 2015)
+
+  - cat: Under 19 Women
+    name: Tahlay Christie
+    time: 35.518 (WA 2016)
+
+  - cat: 
+    name: Tian Beckett
+    time: 35.699 (Oceanias 2012)
+
+  - cat: Under 19 Men
+    name: Kye Bonser
+    time: 1.04.901 (Adl 2016) TBC by Clay
+
+  - cat: 
+    name: Scott Sunderland
+    time: 1.05.027 (SA 2006)
+
+  - cat: Women
+    name: Rebecca Stevenson
+    time: 36.774 (WA 2016)
+
+  - cat: 
+    name: Holly Williams
+    time: 37.078 (SYD 2011)
+
+  - cat: Men
+    name: Scott Sunderland
+    time: 59.675 (Mexico 2014)
+
+
+  - cat: Para 1 women
+    name: C Mclean
+    time: 1.21.952 (Athens 2004)
+
+  - cat: Para 1 Men
+    name: M Gray
+    time: 1.09.923**(Germany 2003)
+
+  - cat: 
+    name: Morgan Shaw
+    time: 53.161 (SYD 2011)
+
+  - cat: Para 3 women
+    name: J Armstrong
+    time: 1.33.580****(NSW 2004)
+
+  - cat: 
+    name: J Armstrong
+    time: 47.479** (SA 2006)
+
+  - cat: Under 19 Tandem Men
+    name: Joshua Yates/B Page
+    time: 1.12.416*** (SA 2006)
+
+  - cat: Tandem Men
+    name: K Modra*/D Harry
+    time: 1.05.462 (Germany 2002)
+
+  - cat: Tandem Women
+    name: J Shaw/K McCombie
+    time: 1.12.153 (Athens 2004)
+
+  - cat: Mixed Tandem
+    name: L Lepore/Eddie Hollands
+    time: 1.13.800 (Germany 2002)
+
+Individual Pursuit:
+  - cat: Under 11 Women
+    name: Matilda Cronin
+    time: 1.46.660 WA 2016)
+
+  - cat: Under 11 Women
+    name: A Parkinson
+    time: 1.52.18 (WA 2003)
+
+  - cat: Under 11 Men
+    name: G Marter
+    time: 1.39.52 (WA 2005)
+
+
+  - cat: Under 13 women
+    name: Jessica Baldey
+    time: 1.28.09 (WA 2009)
+
+  - cat: Under 13 Men
+    name: Max Leiner
+    time: 1.25.489 (WA 2015)
+
+
+  - cat: Under 15 Women
+    name: Jessica Allen
+    time: 2.40.960***(NSW 2007)
+
+  - cat: Under 15 Men
+    name: Matthew Jackson
+    time: 2.31.465 (SYD 2011)
+
+
+  - cat: Under 17 women
+    name: Jade Haines
+    time: 2.30.83 (NSW 2015)
+
+  - cat: Under 17 Men
+    name: Matthew Jackson
+    time: 2.20.56 (WA 2013)
+
+
+  - cat: Under 19 Women
+    name: Kelsey Robson
+    time: 2.24.788***(MELB 2012)
+
+
+  - cat: Under 19 Men
+    name: Cameron Meyer
+    time: 3.19.632 (SA 2006)
+
+
+  - cat: Women
+    name: L Tyler-Sharman
+    time: 3.33.759 (TAS 1997)
+
+
+  - cat: Men
+    name: Sam Welsford
+    time: 4.19.638 (Adl 2016)
+
+  - cat: Men
+    name: Luke Durbridge
+    time: 4.21.681 (SYD 2011)
+
+  - cat: Para 1 women
+    name: C Mclean
+    time: 4.05.754 (SA 2006)
+
+  - cat: Para 1 Men
+    name: P O'Neill
+    time: 4.54.575***(NSW 2000)
+
+  - cat: Para 3 women
+    name: J Armstrong
+    time: 4.41.678 (SA 2006)
+
+  - cat: Under 19 Tandem Men
+    name: Joshua Yates/B Page
+    time: 3.48.600***(SA 2006)
+
+  - cat: Tandem Men
+    name: P Clohessy/Eddie Hollands
+    time: 4.30.416***(NSW 2000)
+
+  - cat: Tandem Women
+    name: J Shaw/K McCombie
+    time: 3.38.564**(NSW 2004)
+
+  - cat: Mixed Tandem
+    name: L Lepore/Eddie Hollands
+    time: 3.41.000 (WA 2002)
+
+250m Time Trial / Stamding Start:
+  - cat: Under 11 Women
+    name: Matilda Cronin
+    time: 27.62 (WA 2016)
+
+  - cat: Under 11 Women
+    name: A Parkinson
+    time: 28.12 (WA 2003)
+
+  - cat: Under 11 Men
+    name: Mitchell Benson
+    time: 26.78 (WA 2003)
+
+  - cat: Under 13 women
+    name: Dharlia Haines
+    time: 23.44 (WA 2014)
+
+  - cat: Under 13 Men
+    name: Max Leiner
+    time: 22.027 (WA 2015)
+
+  - cat: Under 15 Women
+    name: R MacPherson
+    time: 22.44 (SA 2003)
+
+  - cat: Under 15 Men
+    name: B Griffiths
+    time: 21.52 (WA 2004)
+
+  - cat: Under 17 women
+    name: Tahlay Christie
+    time: 20.414 (Vic 2014)
+
+  - cat: Under 17 Men
+    name: Matt Richardson
+    time: 19.232 (Vic 2015)
+
+  - cat: Under 19 Women
+    name: Tian Becket
+    time: 19.75 (Youth Olympics 2013)
+
+  - cat: Under 19 Men
+    name: Matt Richardson
+    time: 18.370 (Vic 2016) TBC by Clay
+
+  - cat: Under 19 Men
+    name: Matt Richardson
+    time: 18.699 (Adl 2016)
+
+  - cat: Men
+    name: R Bayley
+    time: 18.847 (NSW 2003)
+
+Team Pursuit:
+  - cat: Under 17 women
+    name: Kelsey Robson/Tian Beckett/Elissa Wundersitz
+    time: 2.31.066***(SYD 2011)
+
+  - cat: Under 17 Men
+    name: Jai Hindley/Matt Jackson/Reece Tucknott/Sam Welsford
+    time: 3.21.40 (MELB 2012)
+
+  - cat: Under 19 Women
+    name: Jess Allen/Isabella King/Michaela Anderson
+    time: 3.32.933 (ADE 2010)
+
+  - cat: Under 19 Men
+    name: Duane Johansen/Cameron Meyer/Travis Meyer/Doug Repacholi
+    time: 4.13.062 (SA 2006)
+
+  - cat: Women
+    name: Melissa Hoskins/Isabella King/Josie Tomic
+    time: 3.21.427 (SYD 2011)
+
+
+  - cat: Men
+    name: Luke Durbridge/Michael Freiberg/Stephen Hall/Glen Harris
+    time: 4.08.321 (SYD 2011)
+
+
+Olympic Sprint:
+  - cat: Under 17 women
+    name: Tahlay Christie/Jade Haines
+    time: 36.358 ***(Syd 2014)
+
+
+  - cat: Under 17 Men
+    name: Matt Richardson/Craig Wiggins/Kye Bonser
+    time: 49.046 (VIC 2015)
+
+  - cat: Under 19 Men
+    name: Matt Richardson/Craig Wiggins/Kye Bonser
+    time: 47.206 (Adl 2016)
+
+  - cat: 
+    name: J Holloway/D Johansen/S Sunderland
+    time: 47.502 (SA 2006)
+
+  - cat: Women
+    name: Tahlay Christie/Bec Stephenson
+    time: 35.061 (MELB 2015)
+
+
+  - cat: Men
+    name: R Bayley/D Harry/G Sharman
+    time: 46.847 (VIC 2001)
+
+  - cat: Para 1 Men
+    name: M Gary/P Brooks*/G Ball*
+    time: 44.353 (Germany**** 2002)
+
+Omnium:
+  - cat: Under 19 Women
+    name: Jessica Allen
+    time: 3.31.039 (SYD 2011)
+
+  - cat: Under 19 Men
+    name: Trent Derecourt
+    time: 4.45.971 (SYD 2011)
+
+  - cat: Women
+    name: Melissa Hoskins
+    time: 4.33.127 (SYD 2011)
+
+  - cat: Men
+    name: Michael Freiberg
+    time: 5.51.478 (SYD 2011)
