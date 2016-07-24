@@ -29,6 +29,15 @@ $navbar-light-disabled-color: $py-brand-medium;
   text-align: center;
 }
 
+table {
+  border: 1px solid $py-blue-background;
+}
+
+thead {
+  background-color: $py-blue-background;
+  color: white;
+}
+
 .page-content > .wrapper > .container {
   margin-top: 100px;
 }

@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="container">
+
+<h1>Event Schedule</h1>
+
+{% for day in site.data.schedule %}
+    <hr>
+    <h3>Day {{ forloop.index }}: {{ day[0] }}</h3>
+
+    <table style="margin: 25px 25px 50px 25px" class="table table-hover table-sm">
+        <thead>
+            <th>Time</th>
+            <th>Event</th>
+            <th>Category</th>
+            <th>Heat</th>
+            <th>Notes</th>
+        </thead>
+        <tbody>
+
+    {% assign lasttime = "0:00" %}
+    {% for time in day[1] %}
+        
+
+
+            {% for row in time[1] %}
+
+                <tr>
+                    <td>
+                        {% if lasttime != time[0] %}
+                            {{ time[0] }}
+                        {% endif %}
+                    </td>
+                    <td>{{ row.event }}</td>
+                    <td>{{ row.cat }}</td>
+                    <td>{{ row.type }}</td>
+                    <td>{{ row.notes }}</td>
+                </tr>
+
+                {% assign lasttime = time[0] %}
+
+            {% endfor %}
+        
+            
+    {% endfor %}
+
+        </tbody>
+    </table>
+
+
+{% endfor %}
+
+</div>

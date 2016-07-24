@@ -1,0 +1,308 @@
+
+Monday 26th September 2016:
+  "9:30":
+    - event: 2km Team Pursuit
+      type: Qualifying
+      cat: JW15 & 17
+      notes: Two Teams in each heat.
+    - event: 3km Team Pursuit
+      type: Qualifying
+      cat: JM15 & 17
+      notes: Two teams in each heat.
+    - event: 500m Time Trial
+      type: Final
+      cat: Young Guns,
+      notes: Demonstration event
+
+  "10:45":
+    - event: 500m Time Trial
+      type: Final
+      cat: JW15
+      notes: 
+    - event: 500m Time Trial
+      type: Final
+      cat: JW17
+      notes: Two riders per heat all TT's
+    - event: 500m Time Trial
+      type: Final
+      cat: JM15
+      notes: 
+    - event: 500m Time Trial
+      type: Final
+      cat: JM17
+      notes:
+  "12:00":
+    - event: Lunch Break
+  "13:00":
+    - event: Opening Ceremony
+    - event: Scratch Race
+      type: Demonstration event.
+      cat: Young Guns
+      notes: 
+    - event: 2km Team Pursuit 
+      type: Final 3rd-4th 1st-2nd
+      cat: JW15 & 17
+      notes: 
+    - event: 3km Team Pursuit
+      type: Final 3rd-4th 1st-2nd
+      cat: JM15 & 17
+      notes: 
+  "14:00":
+    - event: Victory Ceremony
+      type: 
+      type: 
+      notes: 
+  "14:30":
+    - event: Italian Pursuit
+      type: Demonstration event.
+      cat: Young Guns
+      notes: 
+    - event: Sprint 200m Time Trial
+      type: Qualifying
+      cat: JW15
+      notes: Come around to get 2 laps to go.
+    - event: Sprint 200m Time Trial
+      type: Qualifying
+      cat: JW17
+      notes: Come around to get 2 laps to go.
+    - event: Sprint 200m Time Trial
+      type: Qualifying
+      cat: JM15
+      notes: Come around to get 2 laps to go.
+    - event: Sprint 200m Time Trial
+      type: Qualifying
+      cat: JM17
+      notes: Come around to get 2 laps to go.
+    
+Tuesday 27th September 2016:
+
+  "9:15":
+    - event: Official Event Photos
+      type: 
+      cat: All teams & riders required
+      notes: 
+  
+  "9:30":
+    - event: Sprint
+      type: 1/4 final 
+      cat: JW15
+      notes: Winner to next round
+    - event: Sprint
+      type: 1/4 final
+      cat: JW17
+      notes: Winner to next round
+    - event: Sprint
+      type: 1/4 final
+      cat: JM15
+      notes: Winner to next round
+    - event: Sprint
+      type: 1/4 final 
+      cat: JM17
+      notes: Winner to next round
+  
+  "10:00":
+    - event: 2km Individual Pursuit
+      type: Qualifying
+      cat: JW15
+      notes: 
+    - event: 2km Individual Pursuit
+      type: Qualifying
+      cat: JW17
+      notes: Two riders on the track for IP heats 
+    - event: 2km Individual Pursuit
+      type: Qualifying
+      cat: JM15
+      notes: 
+    - event: 2km Individual Pursuit
+      type: Qualifying
+      cat: JM17
+      notes:
+  
+  "12:00":
+    - event: Lunch Break
+  
+  "13:30":
+    - event: Sprint
+      type: Semi Final Heat 1
+      cat: JW15
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 1
+      cat: JW17
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 1
+      cat: JM15
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 1
+      cat: JM17
+      notes: 
+    - event: Sprint
+      type: 5th - 8th Final
+      cat: JW15
+      notes: 
+    - event: Sprint
+      type: 5th - 8th Final
+      cat: JW17
+      notes: 
+    - event: Sprint
+      type: 5th - 8th Final
+      cat: JM15
+      notes: 
+    - event: Sprint
+      type: 5th - 8th Final
+      cat: JM17
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 2
+      cat: JW15
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 2
+      cat: JW17
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 2
+      cat: JM15
+      notes: 
+    - event: Sprint
+      type: Semi Final Heat 2
+      cat: JM17
+      notes: 
+
+  "14:30":
+    - event: Deciding heat if required
+      type: 
+      type: 
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H1
+      cat: JW15
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H1
+      cat: JW17
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H1
+      cat: JM15
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H1
+      cat: JM17
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H2
+      cat: JW15
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H2
+      cat: JW17
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H2
+      cat: JM15
+      notes: 
+    - event: Sprint
+      type: Final 3rd-4th 1st-2nd H2
+      cat: JM17
+      notes:
+  
+  "15:15":
+    - event: Deciding heat if required
+      type: 
+      type: 
+      notes: 
+    - event: Individual Pursuit
+      type: Final
+      cat: JW15 3rd-4th 1st-2nd
+      notes: 
+    - event: Individual Pursuit
+      type: Final
+      cat: JW17 3rd-4th 1st-2nd
+      notes: 
+    - event: Individual Pursuit
+      type: Final
+      cat: JM15 3rd-4th 1st-2nd
+      notes: 
+    - event: Individual Pursuit
+      type: Final
+      cat: JM17 3rd-4th 1st-2nd
+      notes: 
+  
+  "17:00":
+    - event: Victory Ceremony
+
+  
+Wednesday 28th September:
+
+  "9:30":
+    - event: Team Sprint
+      type: Qualifying
+      cat: JW15 & 17
+      notes: 2 riders per team.
+    - event: Team Sprint
+      type: Qualifying
+      cat: JM15 & 17
+      notes: 3 riders per team.
+    - event: Wheelrace
+      type: Demonstration event.
+      cat: Young Guns
+      notes: 
+    - event: 7.5km Points Race
+      type: Final
+      cat: JW15
+      notes: 
+    - event: 12.5km Points Race
+      type: Final
+      cat: JW17
+      notes: 
+    - event: 7.5km Points Race
+      type: Final
+      cat: JM15
+      notes: 
+    - event: 15km Points race
+      type: Final
+      cat: JM17
+      notes: 
+    - event: Slow Race
+      type: Demonstration event.
+      cat: Young Guns
+      notes: 
+
+  "12:00":
+    - event: Lunch Break
+
+  "13:30":
+    - event: Team Sprint
+      type: Final 3rd-4th 1st-2nd
+      cat: JW15 & 17
+      notes: 
+    - event: Team Sprint
+      type: Final 3rd-4th 1st-2nd
+      cat: JM15 & 17
+      notes: 
+    - event: Elinination
+      type: Demonstration event
+      cat: Young Guns
+      notes: 
+    - event: 5km Scratch Race
+      type: Final
+      cat: JW15
+      notes: 
+    - event: 7.5km Scratch Race
+      type: Final
+      cat: JW17
+      notes: 
+    - event: 5km Scratch Race
+      type: Final
+      cat: JM15
+      notes: 
+    - event: 10km Scratch Race
+      type: Final
+      cat: JM17
+      notes: 
+  "15:30":
+    - event: Victory Ceremony
+
