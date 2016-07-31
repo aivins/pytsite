@@ -4,15 +4,15 @@ Monday 26th September 2016:
     - event: 2km Team Pursuit
       type: Qualifying
       cat: JW15 & 17
-      notes: Two Teams in each heat.
+      notes: Two Teams in each heat
     - event: 3km Team Pursuit
       type: Qualifying
       cat: JM15 & 17
-      notes: Two teams in each heat.
+      notes: Two teams in each heat
     - event: 500m Time Trial
       type: Final
-      cat: Young Guns,
-      notes: Demonstration event
+      cat: J11 & J13
+      notes: Support Event
 
   "10:45":
     - event: 500m Time Trial
@@ -22,7 +22,7 @@ Monday 26th September 2016:
     - event: 500m Time Trial
       type: Final
       cat: JW17
-      notes: Two riders per heat all TT's
+      notes: Two riders per heat all TTs
     - event: 500m Time Trial
       type: Final
       cat: JM15
@@ -36,8 +36,8 @@ Monday 26th September 2016:
   "13:00":
     - event: Opening Ceremony
     - event: Scratch Race
-      type: Demonstration event.
-      cat: Young Guns
+      type: Support Event
+      cat: J11 & J13
       notes: 
     - event: 2km Team Pursuit 
       type: Final 3rd-4th 1st-2nd
@@ -54,25 +54,25 @@ Monday 26th September 2016:
       notes: 
   "14:30":
     - event: Italian Pursuit
-      type: Demonstration event.
-      cat: Young Guns
+      type: Support Event
+      cat: J11 & J13
       notes: 
     - event: Sprint 200m Time Trial
       type: Qualifying
       cat: JW15
-      notes: Come around to get 2 laps to go.
+      notes: Come around to get 2 laps to go
     - event: Sprint 200m Time Trial
       type: Qualifying
       cat: JW17
-      notes: Come around to get 2 laps to go.
+      notes: Come around to get 2 laps to go
     - event: Sprint 200m Time Trial
       type: Qualifying
       cat: JM15
-      notes: Come around to get 2 laps to go.
+      notes: Come around to get 2 laps to go
     - event: Sprint 200m Time Trial
       type: Qualifying
       cat: JM17
-      notes: Come around to get 2 laps to go.
+      notes: Come around to get 2 laps to go
     
 Tuesday 27th September 2016:
 
@@ -108,7 +108,7 @@ Tuesday 27th September 2016:
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JW17
-      notes: Two riders on the track for IP heats 
+      notes: Two riders per heat
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JM15
@@ -241,24 +241,24 @@ Wednesday 28th September:
     - event: Team Sprint
       type: Qualifying
       cat: JW15 & 17
-      notes: 2 riders per team.
+      notes: 2 riders per team
     - event: Team Sprint
       type: Qualifying
       cat: JM15 & 17
-      notes: 3 riders per team.
+      notes: 3 riders per team
     - event: Wheelrace
-      type: Demonstration event.
-      cat: Young Guns
+      type: Support Event
+      cat: J11 & J13
       notes: 
-    - event: 7.5km Points Race
+    - event: 75km Points Race
       type: Final
       cat: JW15
       notes: 
-    - event: 12.5km Points Race
+    - event: 125km Points Race
       type: Final
       cat: JW17
       notes: 
-    - event: 7.5km Points Race
+    - event: 75km Points Race
       type: Final
       cat: JM15
       notes: 
@@ -266,9 +266,9 @@ Wednesday 28th September:
       type: Final
       cat: JM17
       notes: 
-    - event: Slow Race
-      type: Demonstration event.
-      cat: Young Guns
+    - event: Track Stand Sprint
+      type: Support Event
+      cat: J11 & J13
       notes: 
 
   "12:00":
@@ -283,15 +283,15 @@ Wednesday 28th September:
       type: Final 3rd-4th 1st-2nd
       cat: JM15 & 17
       notes: 
-    - event: Elinination
-      type: Demonstration event
-      cat: Young Guns
+    - event: Elimination
+      type: Support Event
+      cat: J11 & J13
       notes: 
     - event: 5km Scratch Race
       type: Final
       cat: JW15
       notes: 
-    - event: 7.5km Scratch Race
+    - event: 75km Scratch Race
       type: Final
       cat: JW17
       notes: 

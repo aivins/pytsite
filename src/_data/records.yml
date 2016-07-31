@@ -3,33 +3,17 @@
     name: Matilda Cronin
     time: 18.42 (WA 2016)
 
-  - cat: Under 11 Women
-    name: A Parkinson
-    time: 19.76 (WA 2003)
-
   - cat: Under 11 Men
     name: Rusty Wisewould
     time: 17.27 (WA 2016)
-
-  - cat: Under 11 Men
-    name: Mitchell Benson 
-    time: 17.87 (WA 2003)
 
   - cat: Under 13 women
     name: Emma Smith
     time: 15.45 (WA 2016)
 
-  - cat: Under 13 women
-    name: Jessica Baldey
-    time: 15.73 (WA 2003)
-
   - cat: Under 13 Men
     name: James Blake 
     time: 14.99 (WA 2016)
-
-  - cat: Under 13 Men
-    name: C Hilton 
-    time: 16.65 (WA 2003)
 
   - cat: Under 15 Women
     name: Tahlay Christie
@@ -52,11 +36,11 @@
     time: 11.490 (Mel 2015)
 
   - cat: Under 19 Men
-    name: R Bayley
+    name: Ryan Bayley
     time: 10.45 (WA 2000)
 
   - cat: Women
-    name: L Tyler-Sharman
+    name: Lucy Tyler-Sharman
     time: 11.78*** (O/D) (QLD 1995)
 
 
@@ -89,14 +73,12 @@
 
 500m/1km Time Trial:
   - cat: Under 13 women
-    name: V Horsley
+    name: Vanessa Horsley
     time: 1.01.01 (WA 2002)
-
 
   - cat: Under 13 Men
     name: N Miles 
     time: 46.40 (WA 2002)
-
 
   - cat: Under 15 Women
     name: Tahlay Christie
@@ -118,40 +100,27 @@
     name: Tahlay Christie
     time: 35.518 (WA 2016)
 
-  - cat: 
-    name: Tian Beckett
-    time: 35.699 (Oceanias 2012)
-
   - cat: Under 19 Men
     name: Kye Bonser
-    time: 1.04.901 (Adl 2016) TBC by Clay
-
-  - cat: 
-    name: Scott Sunderland
-    time: 1.05.027 (SA 2006)
+    time: 1.04.901 (Adl 2016) TBC
 
   - cat: Women
     name: Rebecca Stevenson
     time: 36.774 (WA 2016)
 
-  - cat: 
-    name: Holly Williams
-    time: 37.078 (SYD 2011)
-
   - cat: Men
     name: Scott Sunderland
     time: 59.675 (Mexico 2014)
 
-
   - cat: Para 1 women
-    name: C Mclean
+    name: Claire Mclean
     time: 1.21.952 (Athens 2004)
 
   - cat: Para 1 Men
     name: M Gray
     time: 1.09.923**(Germany 2003)
 
-  - cat: 
+  - cat: Para 1 Men
     name: Morgan Shaw
     time: 53.161 (SYD 2011)
 
@@ -159,7 +128,7 @@
     name: J Armstrong
     time: 1.33.580****(NSW 2004)
 
-  - cat: 
+  - cat: Para 3 women
     name: J Armstrong
     time: 47.479** (SA 2006)
 
@@ -184,14 +153,9 @@ Individual Pursuit:
     name: Matilda Cronin
     time: 1.46.660 WA 2016)
 
-  - cat: Under 11 Women
-    name: A Parkinson
-    time: 1.52.18 (WA 2003)
-
   - cat: Under 11 Men
     name: G Marter
     time: 1.39.52 (WA 2005)
-
 
   - cat: Under 13 women
     name: Jessica Baldey
@@ -201,7 +165,6 @@ Individual Pursuit:
     name: Max Leiner
     time: 1.25.489 (WA 2015)
 
-
   - cat: Under 15 Women
     name: Jessica Allen
     time: 2.40.960***(NSW 2007)
@@ -209,7 +172,6 @@ Individual Pursuit:
   - cat: Under 15 Men
     name: Matthew Jackson
     time: 2.31.465 (SYD 2011)
-
 
   - cat: Under 17 women
     name: Jade Haines
@@ -219,32 +181,24 @@ Individual Pursuit:
     name: Matthew Jackson
     time: 2.20.56 (WA 2013)
 
-
   - cat: Under 19 Women
     name: Kelsey Robson
     time: 2.24.788***(MELB 2012)
-
 
   - cat: Under 19 Men
     name: Cameron Meyer
     time: 3.19.632 (SA 2006)
 
-
   - cat: Women
-    name: L Tyler-Sharman
+    name: Lucy Tyler-Sharman
     time: 3.33.759 (TAS 1997)
-
 
   - cat: Men
     name: Sam Welsford
     time: 4.19.638 (Adl 2016)
 
-  - cat: Men
-    name: Luke Durbridge
-    time: 4.21.681 (SYD 2011)
-
   - cat: Para 1 women
-    name: C Mclean
+    name: Claire Mclean
     time: 4.05.754 (SA 2006)
 
   - cat: Para 1 Men
@@ -293,7 +247,7 @@ Individual Pursuit:
     time: 22.027 (WA 2015)
 
   - cat: Under 15 Women
-    name: R MacPherson
+    name: Rebecca MacPherson
     time: 22.44 (SA 2003)
 
   - cat: Under 15 Men
@@ -314,14 +268,14 @@ Individual Pursuit:
 
   - cat: Under 19 Men
     name: Matt Richardson
-    time: 18.370 (Vic 2016) TBC by Clay
+    time: 18.370 (Vic 2016) TBC
 
   - cat: Under 19 Men
     name: Matt Richardson
     time: 18.699 (Adl 2016)
 
   - cat: Men
-    name: R Bayley
+    name: Ryan Bayley
     time: 18.847 (NSW 2003)
 
 Team Pursuit:
@@ -365,17 +319,12 @@ Olympic Sprint:
     name: Matt Richardson/Craig Wiggins/Kye Bonser
     time: 47.206 (Adl 2016)
 
-  - cat: 
-    name: J Holloway/D Johansen/S Sunderland
-    time: 47.502 (SA 2006)
-
   - cat: Women
     name: Tahlay Christie/Bec Stephenson
     time: 35.061 (MELB 2015)
 
-
   - cat: Men
-    name: R Bayley/D Harry/G Sharman
+    name: Ryan Bayley/D Harry/G Sharman
     time: 46.847 (VIC 2001)
 
   - cat: Para 1 Men
