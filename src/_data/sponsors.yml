@@ -1,0 +1,127 @@
+- name: Department of Sport and Recreation
+  logo: logo-dsr.png
+  url: http://www.dsr.wa.gov.au/
+  desc:
+    - >
+      The Department develops and implements government policy
+      and initiatives in sport and recreation, while contributing
+      to the healthy lifestyle of Western Australians by increasing
+      physical activity through sport and recreation and providing
+      assistance and advice.
+
+
+- name: VenuesWest
+  logo: venueswest.jpg
+  url: http://www.venueswest.wa.gov.au/
+  desc:
+    - >
+      The Western Australian Sports Centre Trust, trading as
+      VenuesWest, is a Statutory Authority under Section 4 of
+      the Western Australian Sports Centre Trust Act,
+      established in 1986 to manage Western Australia's major
+      state-owned sporting facilities
+
+
+- name: Henk Vogels Cycling Foundation
+  logo: henkvogels.png
+  url: https://www.facebook.com/HVCF-Cycling-437255269788896/
+  desc:
+    - >
+      The Henk Vogels Cycling Foundation has a 15 year history
+      in promoting, encouraging and fostering talented junior
+      cyclists and is the premier foundation supporting the
+      sport of cycling in Western Australia.
+    - >
+      Their roll call of elite juniors now racing at the very
+      highest level of the sport today is a testament to the
+      foundation's ongoing passion and commitment. The sport of
+      cycling thanks HVCF Cycling
+
+
+- name: Mcinnerney Ford
+  logo: mford.jpg
+  url: http://www.mford.com.au/
+  desc:
+    - >
+      The Mcinnerney Ford vehicles will be servicing the
+      logistical needs of our international guests during their
+      stay in Perth. In the market for a vehicle? New, Used,
+      Commercial, Sedan or SUV - call McInerney Ford in Morley
+      and mention 2016 Pacific Youth Track Tournament!
+
+
+- name: Nexia Australia
+  logo: nexia.jpg
+  url: http://www.nexia.com.au/
+  desc:
+    - >
+      Nexia Australia Solutions - bringing you expert advice
+      and assistance from specialist Nexia Australia teams we are
+      able to look at your bigger financial picture, in careful
+      detail.
+
+
+- name: Highbury Homes
+  logo: highbury.png
+  url: http://www.highburyhomes.com.au/
+  desc:
+    - >
+      The Highbury Homes Group consists of three elements.
+      Highbury Homes, the premium home builder, MyGen Homes
+      operating in the affordable and investment part of the
+      market and Metrostrata Developments divided between
+      smaller group housing projects and our Special Projects
+      division that handles multi unit developments and apartment
+      projects up to $10 million.
+
+
+- name: Brikmakers
+  logo: brikmakers.jpg
+  url: http://www.brikmakers.com
+  desc:
+    - >
+      Brikmakers - Inspiring Innovation as a sponsor for the
+      2016 Pacific Youth Track Tournament! Inspiring innovation
+      with their state of the art manufacturing and supporting
+      the local community.
+
+
+- name: Guildford Grammar School
+  logo: ggs.png
+  url: http://www.ggs.wa.edu.au/
+  desc:
+    - >
+      Guildford Grammar School is a thriving independent school
+      of some 1150 students and has, over the past century,
+      forged an enviable reputation for providing a well-rounded
+      education and instilling traditional values.
+
+
+- name: Midland Cycle Club
+  logo: mcc.jpg
+  url: http://www.midlandcycleclub.com.au/
+  desc:
+    - >
+      Midland Cycle Club has been operating for over 100 years.
+      It is the home club of WAIS Scholarship holders and numerous
+      state, national and world champions, past and present.
+
+
+- name: Track Cycling Western Australia
+  logo: tcwa.png
+  url: http://trackcyclingwa.com.au/
+  desc:
+    - >
+      Track Cycling Western Australia is a not-for-profit
+      organisation. Our vision is to increase participation in
+      cycling through track cycling.
+
+
+- name: National Cycling Centre WA
+  logo: ncc.jpg
+  desc:
+    - >
+      NCCWA promotes and offers the sport of cycling providing
+      a holistic pathway in cycling development for school
+      children through to elite level athletes.
+

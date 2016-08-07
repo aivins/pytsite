@@ -94,33 +94,14 @@ A premier international youth track cycling competition for U15 – U17 boys and
 
 <div class="row sponsors">
   <p>SPONSORS</p>
-  <div class="col-md-2 sponsor">
-    <img src="/images/henkvogels.png" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/brikmakers.jpg" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/highbury.png" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/nexia.jpg" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/mford.jpg" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/mcc.jpg" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/ncc.jpg" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/tcwa.png" width="150px">
-  </div>
-  <div class="col-md-2 sponsor">
-    <img src="/images/ggs.png" width="150px">
-  </div>
+
+  {% for sponsor in site.data.sponsors %}
+    <div class="col-md-2 sponsor">
+      <a href="{{ sponsor.url }}">
+        <img src="/images/{{ sponsor.logo }}" width="150px">
+      </a>
+    </div>
+  {% endfor %}
 </div>
 
 
