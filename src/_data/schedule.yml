@@ -8,7 +8,7 @@ Monday 26th September 2016:
     - event: 3km Team Pursuit
       type: Qualifying
       cat: JM15 & 17
-      notes: Two teams in each heat
+      notes: School teams straight final
     - event: 500m Time Trial
       type: Final
       cat: J11 & J13
@@ -104,19 +104,19 @@ Tuesday 27th September 2016:
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JW15
-      notes: 
+      notes: School teams straight final 
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JW17
-      notes: Two riders per heat
+      notes: Two riders per heat. School teams straight final.
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JM15
-      notes: 
+      notes: School teams straight final 
     - event: 2km Individual Pursuit
       type: Qualifying
       cat: JM17
-      notes:
+      notes: School teams straight final
   
   "12:00":
     - event: Lunch Break
@@ -125,19 +125,19 @@ Tuesday 27th September 2016:
     - event: Sprint
       type: Semi Final Heat 1
       cat: JW15
-      notes: 
+      notes: School girls top 4 to semi final – sudden death
     - event: Sprint
       type: Semi Final Heat 1
       cat: JW17
-      notes: 
+      notes: School girls top 4 to semi final – sudden death
     - event: Sprint
       type: Semi Final Heat 1
       cat: JM15
-      notes: 
+      notes: School boys top 4 to semi final – sudden death
     - event: Sprint
-      type: Semi Final Heat 1
+      type: Semi Final Heat 1 schools 5th-8th final
       cat: JM17
-      notes: 
+      notes: Mixed/based on fly 200 time
     - event: Sprint
       type: 5th - 8th Final
       cat: JW15
@@ -157,19 +157,19 @@ Tuesday 27th September 2016:
     - event: Sprint
       type: Semi Final Heat 2
       cat: JW15
-      notes: 
+      notes: School girls top 4 to semi final – sudden death
     - event: Sprint
       type: Semi Final Heat 2
       cat: JW17
-      notes: 
+      notes: School girls top 4 to semi final – sudden death
     - event: Sprint
       type: Semi Final Heat 2
       cat: JM15
-      notes: 
+      notes: School boys top 4 to semi final – sudden death
     - event: Sprint
       type: Semi Final Heat 2
       cat: JM17
-      notes: 
+      notes: School boys top 4 to semi final – sudden death
 
   "14:30":
     - event: Deciding heat if required
@@ -249,7 +249,7 @@ Wednesday 28th September:
     - event: Wheelrace
       type: Support Event
       cat: J11 & J13
-      notes: 
+      notes: Team Sprint School Teams Straight Final
     - event: 7.5km Points Race
       type: Final
       cat: JW15
@@ -257,7 +257,7 @@ Wednesday 28th September:
     - event: 12.5km Points Race
       type: Final
       cat: JW17
-      notes: 
+      notes: 15 lap Points Race School Teams Final
     - event: 7.5km Points Race
       type: Final
       cat: JM15
@@ -290,7 +290,7 @@ Wednesday 28th September:
     - event: 5km Scratch Race
       type: Final
       cat: JW15
-      notes: 
+      notes: 10 lap scratch race School Teams Final
     - event: 7.5km Scratch Race
       type: Final
       cat: JW17
